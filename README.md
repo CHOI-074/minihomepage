@@ -32,3 +32,7 @@ cart.md 추가
 ## sidebar개발
 
 - 사이트바 개발
+
+## search 개발
+
+- search.md
